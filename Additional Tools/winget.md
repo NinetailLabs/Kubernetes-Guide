@@ -1,0 +1,1 @@
+Winget is a command line package manager for Windows that can be used to install and manage applications. See documentation [here](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
