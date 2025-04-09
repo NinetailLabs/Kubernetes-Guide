@@ -1,0 +1,4 @@
+This guide assumes that you will be setting up a managed Kubernetes cluster in the cloud.
+For my personal cluster (and thus, this guide) I will be using the managed cluster service from [OVH](https://www.ovhcloud.com/en/public-cloud/kubernetes/). The guide should work for other managed clusters as well, but has not been tested using them.
+
+While it *should* be possible to follow the guide using something like [minikube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe+download) I will be configuring the ingress for https only traffic (using Let'sEncrypt) which might not be possible on minikube.
