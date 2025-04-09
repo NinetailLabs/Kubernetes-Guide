@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "08c503257d31f1c3",
+        "id": "50bec8c24b564929",
         "type": "tabs",
         "children": [
           {
-            "id": "e4721447ec12bff1",
+            "id": "42c69f4ca49fe782",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Cluster/2 - Logo Host.md",
+                "file": "Kubernetes Cluster/3 - Coroot Observability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Logo Host"
+              "title": "3 - Coroot Observability"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Cluster/2 - Logo Host.md",
+                "file": "Kubernetes Cluster/3 - Coroot Observability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 - Logo Host"
+              "title": "Backlinks for 3 - Coroot Observability"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Cluster/2 - Logo Host.md",
+                "file": "Kubernetes Cluster/3 - Coroot Observability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2 - Logo Host"
+              "title": "Outgoing links from 3 - Coroot Observability"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Cluster/2 - Logo Host.md",
+                "file": "Kubernetes Cluster/3 - Coroot Observability.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 - Logo Host"
+              "title": "Outline of 3 - Coroot Observability"
             }
           }
         ]
@@ -168,12 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4721447ec12bff1",
+  "active": "42c69f4ca49fe782",
   "lastOpenFiles": [
+    "Kubernetes Cluster/1 - Traefik Ingress.md",
+    "Kubernetes Cluster/3 - Coroot Observability.md",
+    "Kubernetes Cluster/2 - Logo Host.md",
     "Kubernetes Basics/Helm.md",
     "readme.md",
-    "Kubernetes Cluster/2 - Logo Host.md",
-    "Kubernetes Cluster/1 - Traefik Ingress.md",
     "Kubernetes Cluster/0 - Setting up a cluster.md",
     "Kubernetes Cluster",
     "Kubernetes Basics/DockerHub.md",
