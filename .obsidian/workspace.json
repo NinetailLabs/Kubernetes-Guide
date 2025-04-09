@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Cluster/3 - Coroot Observability.md",
+                "file": "Kubernetes Cluster/4 - MS SQL Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Coroot Observability"
+              "title": "4 - MS SQL Server"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Cluster/3 - Coroot Observability.md",
+                "file": "Kubernetes Cluster/4 - MS SQL Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3 - Coroot Observability"
+              "title": "Backlinks for 4 - MS SQL Server"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Cluster/3 - Coroot Observability.md",
+                "file": "Kubernetes Cluster/4 - MS SQL Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3 - Coroot Observability"
+              "title": "Outgoing links from 4 - MS SQL Server"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Cluster/3 - Coroot Observability.md",
+                "file": "Kubernetes Cluster/4 - MS SQL Server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 - Coroot Observability"
+              "title": "Outline of 4 - MS SQL Server"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "42c69f4ca49fe782",
   "lastOpenFiles": [
-    "Kubernetes Cluster/1 - Traefik Ingress.md",
     "Kubernetes Cluster/3 - Coroot Observability.md",
+    "Kubernetes Cluster/4 - MS SQL Server.md",
+    "Kubernetes Cluster/1 - Traefik Ingress.md",
     "Kubernetes Cluster/2 - Logo Host.md",
     "Kubernetes Basics/Helm.md",
     "readme.md",
