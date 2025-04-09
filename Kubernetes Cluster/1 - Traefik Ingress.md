@@ -502,3 +502,11 @@ In your browser you should now be able to navigate to your domain and see a test
 Your Traefik dashboard will also show your new routes, services and middleware.
 
 If you see the page and it is secured using a Let's Encrypt certificate, then congratulations, you have successfully set up Traefik!
+
+## Cleanup
+To clean up the web test run
+```powershell
+kubectl delete all --all -n web-test
+```
+
+This will delete all the resources we created for our test pod
